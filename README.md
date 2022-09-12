@@ -3,7 +3,7 @@
 I'm Maria, used to be an Architect and Project manager, and I decided to use my creativity and problem solving skills into the tech world. 
 
 - 🔭 I’m currently working on some personal projects to learn new skills.
-- 🌱 I’m currently learning coding, UI/UX, crypto and NFT.
+- 🌱 I’m currently learning styled components, getting deeper knowledge in Next, and Javascript Design Patterns.
 - 👯 I’m looking to collaborate on projects which I can improve, make new friends and learn more about coding and blockchain.
 - 🤔 I’m looking for help with any project that I can improve people's life.
 
