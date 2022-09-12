@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Maria, used to be architect and project manager, and I decided to use my creativity and problem solving skills into the tech world. 
+I'm Maria, used to be an Architect and Project manager, and I decided to use my creativity and problem solving skills into the tech world. 
 
 - 🔭 I’m currently working on some personal projects to learn new skills.
 - 🌱 I’m currently learning coding, UI/UX, crypto and NFT.
