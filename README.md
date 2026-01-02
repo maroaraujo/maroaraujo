@@ -8,11 +8,11 @@ I'm Maria, formerly an Architect and Project manager, and I decided to apply my 
 
 😍 Hobbies/ Fun Facts 🤪:
 
-- 👩🏽‍🍳 Cooking: Love to cook and bake, and do some experiement on the kitchen 🧪 
+- 👩🏽‍🍳 Cooking: Love to cook and bake, and do some experimentation in the kitchen 🧪 
 -  Sports in general and Love Handball 
 -  Crazy about plants, I'm creating a forest at home, they are my babies! 🪴
--  Love travelling and know new cultures (lived in Brazil, Germany, France and in the UK) and currently I speak four and a half languages.
-- ⚡ I'm a brazilian architect 🇧🇷, who worked as Project Manager in London, love investments and motivated to start a career in the tech industry.  
+-  Love travelling and know new cultures (lived in Brazil, Germany, France, UK and spent 6 months in Asia) and currently I speak four and a half languages hehe.
+- ⚡ I'm a Brazilian architect 🇧🇷, who worked as Project Manager and Product Manager in London, love investments and motivated to keep learning about Product management and AI.  
 
 Nice to meet you!
 <!--
