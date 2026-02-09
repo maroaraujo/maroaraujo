@@ -2,8 +2,8 @@
 
 I'm Maria, formerly an Architect and Project manager, and I decided to apply my creativity and problem-solving skills to the tech world. 
 
-- I’m currently working on some personal projects to learn new skills.
-- I've worked as a Product Manager in a Fintech (B2B SaaS) and E-commerce.
+- I’m currently working on some personal projects to learn AI skills.
+- I've worked as a Product Manager in a Fintech (B2C and B2B SaaS) and E-commerce.
 - I’m looking to collaborate on projects which I can improve, make new friends and learn more about AI, coding and blockchain.
 
 😍 Hobbies/ Fun Facts 🤪:
